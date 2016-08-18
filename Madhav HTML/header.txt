@@ -1,0 +1,14 @@
+<html>
+<head>
+<style>
+.heading{
+margin-top:20px;
+}
+</style>
+</head>
+<body bgcolor="#04B4AE">
+<div class="heading">
+<font size="10" color="white" face="Supercell-Magic" padding="bottom"><center>resume</center></font>
+</div>
+</body>
+</html>

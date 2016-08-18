@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>footer</title>
+</head>
+<body bgcolor=#FE9A2E>
+<center>
+<font size=2px color=white>All Rights Reserved</font>
+</body>
+</html>

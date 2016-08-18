@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>
+</title>
+</head>
+<pre>
+<font size=15>
+DOB                      : 17 November 1995	
+Nationality            : Indian	
+Marital Status       : Single	
+Languages Known: English, Hindi
+</font>
+</pre>
+</html>
